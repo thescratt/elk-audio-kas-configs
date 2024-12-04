@@ -5,7 +5,7 @@ header:
 
 repos:
   meta-elk:
-    url: https://github.com/elk-audio/meta-elk.git
+    url: https://github.com/thescratt/meta-elk.git
     commit: 617023192ad018277fb9d91e4323ac129fa00367
     path: layers/meta-elk
   meta-swupdate:
