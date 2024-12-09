@@ -6,7 +6,7 @@ header:
 repos:
   meta-elk:
     url: https://github.com/thescratt/meta-elk.git
-    commit: ab08db019424ce382d2fc066ad74d82992084fdb
+    commit: fb12c59454c00f22d0357baf908856d001c047b6
     path: layers/meta-elk
   meta-swupdate:
     url: https://github.com/sbabic/meta-swupdate
